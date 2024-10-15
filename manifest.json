@@ -1,13 +1,18 @@
 {
     "name": "SuperAPPGringa",
     "start_url": "/",
+    "scope": "/",
+    "orientation": "portrait-primary",
+    "description": "Aplicativo para verificar o combustível que vale mais em carros flex - gasolina ou etanol",
+    "dir": "ltr",
+    "lang": "pt-BR",
     "display": "standalone",
-    "orientation": "portrait",
+
     "icons": [
         {
             "src": "img/favicon.png",
             "sizes": "512x512",
             "type": "image/png"
         }
-    ]
+            ]
 }
